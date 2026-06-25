@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
 
 <h3 align="center">
-Pre-Final Year B.Tech CSE (AI) Student at MAIT Delhi
+Final Year B.Tech CSE (AI) Student at MAIT Delhi
 </h3>
 
 <img align="right" height="180"
