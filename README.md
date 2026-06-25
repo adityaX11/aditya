@@ -34,6 +34,16 @@ src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdb
 
 ###
 
+<br clear="both">
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/adityaX11/aditya/output/github-contribution-grid-snake.svg" />
+</p>
+
+###
+
+###
+
 <div align="left">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus"/>
@@ -114,12 +124,4 @@ src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdb
   
 </div>
 
-###
 
-<br clear="both">
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/adityaX11/adityaX11/output/github-contribution-grid-snake.svg">
-</p>
-
-###
