@@ -1,3 +1,6 @@
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=adityaX11&label=Profile+Views&color=0e75b6&style=flat"/>
+</p>
 <h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
 
 <h3 align="center">
@@ -16,24 +19,42 @@ src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdb
 - 📫 Reach me at **adityakumarsah4555@gmail.com**
 
 ###
-<table align="center">
-<tr>
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api?username=adityaX11&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
-</td>
-
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaX11&layout=compact&theme=dracula"/>
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <table>
+  <tr>
+  <td>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=adityaX11&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+  
+  </td>
+  
+  <td>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaX11&layout=compact&theme=tokyonight&hide_border=true"/>
+  
+  </td>
+  </tr>
+  </table>
+</p>
 
 ###
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=adityaX11&theme=tokyonight&hide_border=true" />
+</p>
+###
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityaX11&theme=tokyo-night&hide_border=true" />
+</p>
+
+###
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=adityaX11&theme=tokyonight&no-frame=true&row=2&column=4"/>
+</p>
+
+###
 <br clear="both">
 
 <p align="center">
