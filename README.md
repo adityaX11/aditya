@@ -19,30 +19,23 @@ src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdb
 - 📫 Reach me at **adityakumarsah4555@gmail.com**
 
 ###
-<p align="center">
-  <table>
+<table align="center">
   <tr>
-  <td>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=adityaX11&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
-  
-  </td>
-  
-  <td>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaX11&layout=compact&theme=tokyonight&hide_border=true"/>
-  
-  </td>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=adityaX11&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adityaX11&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+    </td>
   </tr>
-  </table>
-</p>
+</table>
 
 ###
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=adityaX11&theme=tokyonight&hide_border=true" />
 </p>
-###
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityaX11&theme=tokyo-night&hide_border=true" />
